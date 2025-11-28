@@ -1,6 +1,7 @@
 ** Supply Chain Analysis Project (Power BI):
 
 A diagnostic analysis of end-to-end supply chain operations including product demand, inventory planning, supplier performance, logistics efficiency, and market contribution — using interactive Power BI visualizations.
+
 🎯 Project Objective
 
 Analyze supply chain KPIs to evaluate efficiency
