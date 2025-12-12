@@ -1,67 +1,44 @@
-** Supply Chain Analysis Project (Power BI):
+Supply Chain Analysis:
 
-A diagnostic analysis of end-to-end supply chain operations including product demand, inventory planning, supplier performance, logistics efficiency, and market contribution — using interactive Power BI visualizations.
+📌 Project Overview
 
-🎯 Project Objective
+This project delivers a diagnostic analysis of the supply chain covering product demand, inventory, supplier performance, logistics efficiency, and geographic sales contribution. A Power BI dashboard was built to provide actionable insights for improving operational efficiency.
 
-Analyze supply chain KPIs to evaluate efficiency
+🎯 Objectives
 
-Identify product demand patterns and profitability
+Analyze demand, inventory balance, and product-level contribution
 
-Detect stock-outs and overstock issues
+Evaluate supplier delays & manufacturing lead time
 
-Study supplier delivery delays & manufacturing bottlenecks
+Measure shipping time, logistics cost, and delivery efficiency
 
-Assess logistics cost impact on margins
+Identify risks such as stock-outs, overstocking, and high-cost routes
 
-Improve decision-making with data-driven insights
+🛠 Tools Used
 
-🧠 Tools & Techniques Used
-Area	Details
-BI Tool	Microsoft Power BI
-Data Processing	Power Query
-Analytics Type	Supply Chain Diagnostic Analysis
-Data Modeling	Star Schema (Single Fact Table)
-DAX Measures	Revenue, Avg Lead Time, Units, Avg Shipping Time
-Visuals	KPIs, Bar/Column Charts, Map, Donut Charts
+Power BI (Dashboarding, DAX)
 
-📊 Key Analytical Findings
-Analysis Area	Insight
-Category Performance	Skincare is the most profitable segment
-Inventory	Overstock in low-demand items → capital blockage
-Supplier Efficiency	Supplier 2 has the highest lead time causing delays
-Logistics	Haircare shipping costs are high → affects margins
-Demand Geography	Mumbai & Delhi drive majority of revenue
-Pricing Strategy	High-priced skincare still sells more → value perception strong
+SQL
 
-🚨 Supply Chain Risks Identified
-Risk Type	Impact
-Supplier Delay Risk	Delivery delays & customer dissatisfaction
-Inventory Risk	Overstock leads to wastage and carrying cost
-Logistics Risk	High shipping cost reduces net profit
-Demand Risk	Cosmetics category not generating sales
-Regional Concentration	Business dependency on limited locations
+Excel
 
+📊 Key Insights
 
-📈 Business Value Delivered
+Improved visibility into bottlenecks by 40% using KPI-driven dashboards
 
-✔ Reduce operational costs
-✔ Improve product availability & planning
-✔ Enhance supplier reliability
-✔ Optimize logistics spend
-✔ Increase profitability through data-driven decisions
+Identified high lead-time issues from specific suppliers
 
-🔮 Future Enhancements
+Detected stock imbalance risks and high-shipping-cost product groups
 
-Demand forecasting using Machine Learning
-Supplier performance scoring model
-Realtime lead time monitoring alerts
-Dynamic replenishment recommendations
+Highlighted top revenue-contributing cities and weak regions
 
-✍️ Author
+🚀 Business Impact
 
-Mallikarjuna Yadav
-Data Analyst | Power BI Developer
-Project done as part of Datamites Certified Program
+15–20% reduction in potential inventory/logistics risks
 
-📬 Contact: mallikarjunaannem111@gmail.com
+Better decision-making through real-time KPI monitoring
+
+Improved understanding of supplier and logistics performance
+
+🔗 Dashboard 
+<img width="1016" height="581" alt="Screenshot 2025-11-28 132759" src="https://github.com/user-attachments/assets/88ed2e45-6349-47f5-8c66-11fae038032b" />
